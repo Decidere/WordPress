@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/decidere"]
+	path = wp-content/themes/decidere
+	url = git@github.com:Decidere/wp-theme-decidere.git
